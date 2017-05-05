@@ -2,3 +2,5 @@ File to be completed later
 Adding another line since initial commit
 
 This is a fourth commit (removed the UML code).  Also created a new branch
+
+Anotehr line before I commit again and see how I merge this branch to the master
